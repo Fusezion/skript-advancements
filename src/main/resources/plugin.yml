@@ -1,0 +1,13 @@
+main: io.github.fusezion.skriptadvancements.SkriptAdvancements
+name: Skript-Advancements
+description: Skript-Advancement is a recoded version of the original skript advancements by Hotpocket, none of the syntax is the same and was reworked into a new design using sections and entries
+website: https://github.com/Fusezion/Skript-Advancements
+version: @version@
+api-version: '1.20'
+authors:
+    - Fusezion/Lyric
+    - Hotpocket (original)
+loadbefore:
+  - SkQuery
+depend:
+  - Skript
